@@ -2,8 +2,8 @@
     {
         "Author": "Bluefissure",
         "Name": "MapLinker",
-        "InternalName": "MapLinker",
-        "AssemblyVersion": "1.1.10.0",
+        "InternalName": "MapLinker_Fork",
+        "AssemblyVersion": "1.2.0.0",
         "Description": "Automatically record the maplinks in chat and retrieval later.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Bluefissure/MapLinker",
@@ -15,8 +15,8 @@
         "IconUrl": "https://raw.githubusercontent.com/Bluefissure/MapLinker/master/images/icon.png",
         "Punchline": "Record the maplinks in chat",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/Aspher0/MapLinker/releases/download/v1.1.0.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Aspher0/MapLinker/releases/download/v1.1.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Aspher0/MapLinker/releases/download/v1.1.0.0/latest.zip"
+        "DownloadLinkInstall": "https://github.com/Aspher0/MapLinker/releases/download/v1.2.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Aspher0/MapLinker/releases/download/v1.2.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Aspher0/MapLinker/releases/download/v1.2.0.0/latest.zip"
     }
 ]
